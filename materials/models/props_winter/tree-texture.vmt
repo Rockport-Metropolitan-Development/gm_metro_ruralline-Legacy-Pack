@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/props_winter/tree-texture"
+	$AlphaTestReference ".4"
+	$softedges		1
+	"$alphatest" 1
+	"$nocull" 1
+}

@@ -1,0 +1,10 @@
+"WorldVertexTransition"
+{
+	"$basetexture2" "Nature/snow1"
+	"$bumpmap2" "Nature/snow1_nrm"
+	"$basetexture" "Nature/mountainslab_01"
+	"$bumpmap" "Nature/mountainslab_01_n"
+	$blendmodulatetexture "Nature/mountainslab_mod"
+	"$surfaceprop2" "Snow"
+	"$surfaceprop" "Rock"
+}

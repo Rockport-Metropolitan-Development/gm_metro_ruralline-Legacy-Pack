@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_metro_ruralline/Information_Board_1"
+	"$additive" 1
+	"$nocull" 1
+	"$nodecal" 1
+}

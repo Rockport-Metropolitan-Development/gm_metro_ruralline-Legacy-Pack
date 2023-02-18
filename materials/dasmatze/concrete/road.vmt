@@ -1,0 +1,8 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "DasMatze/Concrete/Road"
+	"$basetexture2" "Nature/snow1"
+	$blendmodulatetexture "Nature/mountainslab_mod"
+	"$surfaceprop" "Concrete"
+	"$surfaceprop2" "snow"
+}

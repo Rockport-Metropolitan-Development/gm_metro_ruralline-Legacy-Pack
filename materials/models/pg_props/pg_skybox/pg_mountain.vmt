@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\PG_props\pg_skybox/pg_mountain"
+	"$bumpmap" "models\PG_props\pg_skybox/pg_mountain_bump"
+	"$model" "1"
+	
+	"$detail" "models\PG_props\pg_skybox/pg_mountain_snow"
+	"$detailscale" "90"
+	"$detailblendfactor" "0.2"
+	"$detailblendmode" "0"
+
+}
