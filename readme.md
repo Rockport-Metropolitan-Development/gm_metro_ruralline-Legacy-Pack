@@ -18,9 +18,14 @@ Players have been of course been waiting for update due Rocklake - depot section
 - gm_metro_ruralline_v26_ns
 - gm_metro_ruralline_v27_ns
 - gm_metro_ruralline_v28_ns
-- gm_metro_ruralline_v29 Current version
-- gm_metro_ruralline_v29_snow Same as V29 just edited to be snow map.
-- gm_metro_ruralline_v30 Not released yet, under the development right now
+- gm_metro_ruralline_v29_old (old version)
+    > **"Current version after fixupdate has been released"**
+- gm_metro_ruralline_v29 (Fix update)
+    > Replaces the current version of the V29, This update makes all addons for ruralline obsolete.
+- gm_metro_ruralline_v29_snow
+    > **Same as V29 just edited to be snow map.**
+- gm_metro_ruralline_v30
+    > **Future extension after Rocklake station, extends the map by 3 stations.**
 
 ### Station list (V29)
 - Market street
