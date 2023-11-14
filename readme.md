@@ -18,14 +18,14 @@ Players have been of course been waiting for update due Rocklake - depot section
 - gm_metro_ruralline_v26_ns
 - gm_metro_ruralline_v27_ns
 - gm_metro_ruralline_v28_ns
-- gm_metro_ruralline_v29_old (old version)
+- gm_metro_ruralline_v29 (old version)
     > **"Current version after fixupdate has been released"**
-- gm_metro_ruralline_v29 (Fix update)
-    > Replaces the current version of the V29, This update makes all addons for ruralline obsolete.
+- gm_metro_ruralline_v3 (Fix update)
+    > After ages, V3 of the map :D
 - gm_metro_ruralline_v29_snow
     > **Same as V29 just edited to be snow map.**
-- gm_metro_ruralline_v30
-    > **Future extension after Rocklake station, extends the map by 3 stations.**
+- gm_metro_ruralline_v4
+    > **Future extension after Rocklake station, extends the map by 3 ~ 5 stations.**
 
 ### Station list (V29)
 - Market street
@@ -37,7 +37,8 @@ Players have been of course been waiting for update due Rocklake - depot section
 - Rocklake *(Onwards from V29)*
 
 ### Recommended settings
-*These settings are recommended by map developer as map in it's current form is so short and has lot of faults*
+*These settings are recommended by map developer as map in it's current form is so short and has lot of faults*<br>
+*These settings are only for V1 - V29 versions of the map.*
 - 4 ~ 6 Trains only.
 > Rocklake station is only single tracked station, so that area will have huge traffic jams, Thats why i recommended only between 4 or 6 trains.
 - 3 wagons. 
