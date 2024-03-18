@@ -26,12 +26,12 @@ Players have been of course been waiting for update due Rocklake - depot section
    > map year: 2001 & Rockport Metropolitan is operator.
 
 ##### Obsolete & not supported maps
-- gm_metro_ruralline_v1_ns
-- gm_metro_ruralline_v2_ns
-- gm_metro_ruralline_v25_ns
-- gm_metro_ruralline_v26_ns
-- gm_metro_ruralline_v27_ns
-- gm_metro_ruralline_v28_ns
+- gm_metro_ruralline_v1
+- gm_metro_ruralline_v2
+- gm_metro_ruralline_v25
+- gm_metro_ruralline_v26
+- gm_metro_ruralline_v27
+- gm_metro_ruralline_v28
 
 ### Station list (V29)
 - Market street
