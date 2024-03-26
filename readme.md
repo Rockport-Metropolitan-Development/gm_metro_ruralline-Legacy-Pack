@@ -12,7 +12,8 @@ This is due to the simple layout that the map has, only having a Left / Right tr
 Players have been of course been waiting for update due Rocklake - depot section is very badly designed area as it was meant to be temporary. Same time, all station sections are very short, so map can only have 6 trains active on both tracks.
 
 ### Map list
-- gm_metro_ruralline_v29
+- gm_metro_ruralline_v29*
+> *Map was updated on 26/03/2024, So This is newer version of the map.
 > map year: 1995 & Lakeview transport is operator
 - gm_metro_ruralline_v29_snow
 > map year: 1995 & Lakeview transport is operator
@@ -32,17 +33,20 @@ Players have been of course been waiting for update due Rocklake - depot section
 - gm_metro_ruralline_v26
 - gm_metro_ruralline_v27
 - gm_metro_ruralline_v28
+- gm_metro_ruralline_v29_old*
+    - *Has signaling & announcer support still, This version is removed from support when V3 gets released.
 
-### Station list (V29)
-- Market street
+### Station list (V29 + ID + Passenger pop index)
+*pop index : x.x (MS > RL) & x.x (RL > MS), One index is both plt*
+- Market street  (151 + 0.6)
 - Ravenholm *(closed station)*
-- Aviation university 
-- City Hall
-- White forest
-- Urban park
-- Rocklake *(Onwards from V29)*
+- Aviation university (153 + 1.7 & 0.7)
+- City Hall (154 + 1.4 & 1.2)
+- White forest (155 + 1.7 & 1.5)
+- Urban park (156 + 1.4 & 1.5)
+- Rocklake *(Onwards from V29)* (157 + 2.3)
 
-### Station list (V3)
+### Station list (V3 + ID + Passenger pop index)
 - Market street
 - Ravenholm *(closed station)*
 - Aviation university 
@@ -53,7 +57,7 @@ Players have been of course been waiting for update due Rocklake - depot section
     - Old rocklake station (Museum Station)
     - Military station (Freight station)
 
-### Station list (V4) *This list is not final yet*
+### Station list (V4 + ID + Passenger pop index) *This list is not final yet*
 - Market street
 - Ravenholm *(Museum station / closed station?)*
 - Aviation university
@@ -71,10 +75,12 @@ Players have been of course been waiting for update due Rocklake - depot section
 ### Recommended settings
 *These settings are recommended by map developer as map in its current form is so short and has a lot of faults*<br>
 *These settings are only for V1 - V29 versions of the map.*
-- 4 ~ 6 Trains only.
-> Rocklake station is only single tracked station, so that area will have huge traffic jams, That's why it's recommended only between 4 or 6 trains.
-- 3 wagons. 
-> "Map supports 4 wagons too but because of miscalculated lengths, Market Street Dead-end can support only 3 wagons, With 4 car train it will be tight as you need to hit buffer with your coupler"
+- 6 Trains.
+> ~~Rocklake station is only single tracked station, so that area will have huge traffic jams, That's why it's recommended only between 4 or 6 trains.~~
+> V29 was updated on 26/03/2024, Rocklake got Dead-End & is double tracked.
+- 4 wagons.
+> ~~"Map supports 4 wagons too but because of miscalculated lengths, Market Street Dead-end can support only 3 wagons, With 4 car train it will be tight as you need to hit buffer with your coupler"~~
+> Market Street Dead-End was Extended on 26/03/2024 update.
 - Passenger numbers: 50
 > This is Because of the line location.
 - Voltage: 850Kv
@@ -90,8 +96,4 @@ Players have been of course been waiting for update due Rocklake - depot section
 #### ADDONS FOR THE MAP
 *These are addons what have been made for ruralline, they are either 3rd party or released by RMDT (Rockport metropolitan development and testing)*
 
-| MOD NAME | TYPE |MAKER | SUPPORTED? | NOTES |
-| :------: | :----: | :----: | :------: | :------: |
-| [French RATP multi-announcer for Ruralline map](https://steamcommunity.com/sharedfiles/filedetails/?id=2334115879) | Announcer pack | QuinsyJuliette | No | Not updated after 2021
-| [Update pack for gm_metro_ruralline](https://steamcommunity.com/sharedfiles/filedetails/?id=1550448691) | Update pack | 3450d | No | Last updated 12 Nov, 2018. **NOT RECOMMENDED TO INSTALL**
-| [Russian Content for Ruralline](https://steamcommunity.com/sharedfiles/filedetails/?id=1734172569) | Update pack | Agent Smith & Alexell | No | Not updated after 2020.
+**Not supported anymore due V29 was updated on 26/03/2024 & V3 does not even support them**

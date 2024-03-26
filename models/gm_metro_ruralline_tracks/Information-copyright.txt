@@ -1,0 +1,11 @@
+gm_metro_ruralline_tracks
+
+Original track files are from MyCbEH's Garrygrad Metropoliten [pack 5/5].
+These tracks pieces are made for depot / filling in small gaps.
+
+These edited tracks are made by GamerzXsakuzboy99 and are part of Rockport-metropolitan content pack. If you use these tracks on your map.
+Take whole gm_metro_ruralline_tracks folder with all it's content to your map and be free to use them.
+Do not remove this file,  This is fully a file to tell source that where these tracks are from.
+
+If you downloaded this from github, place files to "models/" folder
+!! THESE TRACKS NEEDS MyCbEH's Garrygrad Metropoliten [pack 5/5] due textures are begin used from it!!

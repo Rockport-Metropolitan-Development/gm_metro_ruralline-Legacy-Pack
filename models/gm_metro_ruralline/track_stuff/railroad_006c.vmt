@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "mus/metro/railroad_006c"
+	"$surfaceprop" "metal"
+	"$alphatest" 1
+	"$nocull" 1
+}
