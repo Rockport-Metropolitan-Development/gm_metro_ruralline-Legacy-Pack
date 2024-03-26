@@ -97,3 +97,12 @@ Players have been of course been waiting for update due Rocklake - depot section
 *These are addons what have been made for ruralline, they are either 3rd party or released by RMDT (Rockport metropolitan development and testing)*
 
 **Not supported anymore due V29 was updated on 26/03/2024 & V3 does not even support them**
+
+
+## Credits
+- Ron Thunder:  Early day map helper (v1 ~ V27)
+- Concord: Early Day Signal helper (v1 - v28)
+- RMDT Testing teams:  Testing Newer versions (v29 - V4)
+- Miffrium : Signal system (V29 - V4)
+- LennDoMations : SIgnal system & other Lua related stuff.
+- And Other people who helped with map during it's lifetime.
