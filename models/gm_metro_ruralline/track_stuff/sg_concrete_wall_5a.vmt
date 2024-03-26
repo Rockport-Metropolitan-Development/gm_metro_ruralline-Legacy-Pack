@@ -1,6 +1,0 @@
-"vertexlitgeneric"
-{
-	"$basetexture" "se_concrete/sg_concrete_wall_5a"
-	"$bumpmap" "se_concrete/sg_concrete_wall_5_norm"
-	"$surfaceprop" "concrete"
-}

@@ -38,7 +38,7 @@
 	{
 		"Type": 4.0,
 		"Angles": "{0 90 0}",
-		"Pos": "[-527.9377 -14361.7812 -16157.5059]",
+		"Pos": "[-527.9377 -14361.7813 -16157.5059]",
 		"Model": "models/mus/metro/station_marker_4.mdl"
 	},
 	{
@@ -152,7 +152,7 @@
 		"Type": 3.0,
 		"Right": true,
 		"Angles": "{0 0 0}",
-		"Pos": "[-6058.7812 -14413.793 -16282.5059]",
+		"Pos": "[-6058.7813 -14413.793 -16282.5059]",
 		"Model": "models/metrostroi/signals/autodrive/doska5.mdl"
 	}
 ]

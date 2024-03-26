@@ -88,3 +88,11 @@ Depot Changes:
 - Closed the old Depot region.
 - Detailed buildings bit to make them more a thing.
 - Added details to the Depot Region.
+
+#### 15 : Update
+- Added Deactivated signals to the depot.
+- Added 3-rail ending points to the depot.
+- Moved Platforms in the depot few meters back. Should align with all trains now.
+- Fixed Urban park Dead-end spawning derailment issue.
+- Fixed interval clocks not picking up the train.
+- Updated / fixed signals file issues.
