@@ -49,7 +49,7 @@ Metrostroi.StationConfigurations = {
             {Vector(-13506,-6641,-13778),Angle(0,60,0)},
         },
     },
-    [200] = {
+    [204] = {
         names = {"Depot"},
         positions = {
             {Vector(14060,9123,-13447),Angle(0,-103,0)},
@@ -57,20 +57,26 @@ Metrostroi.StationConfigurations = {
             {Vector(13765,3971,-13502),Angle(0,83,0)},
         },
     },
+    [200] = {
+        names = {"PTO-MS"},
+        positions = {
+            {Vector(-10781,15070,-16151),Angle(0,0,0)},
+        },
+    },
     [201] = {
-        names = {"Aviation University Dead-End"},
+        names = {"PTO-AV"},
         positions = {
             {Vector(7776,-1947,-16151),Angle(0,0,0)},
         },
     },
     [202] = {
-        names = {"Urban Park Dead-End"},
+        names = {"PTO-UP"},
         positions = {
             {Vector(-14798,5011,-14799),Angle(0,0,0)},
         },
     },
     [203] = {
-        names = {"Rocklake Dead-End"},
+        names = {"PTO-RL"},
         positions = {
             {Vector(-3232,11078,-13715),Angle(0,180,0)},
         },

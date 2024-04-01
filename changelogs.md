@@ -101,3 +101,7 @@ Depot Changes:
 - Optimizations
 - Fixed (maybe) Aviation University dead-end Derail spot.
 - other small things.
+
+#### 17 : Update
+- Optional update, Can be only downloaded from GitHub.
+- Updated Station Name teleports.
