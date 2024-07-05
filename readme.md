@@ -1,15 +1,14 @@
 # gm_metro_ruralline Legacy Pack
+## Map information
+gm_metro_ruralline is a mostly overgound map with few long tunnel sectionsm Map is set in fictive country of Kramasko and is set in 1995 and 2005 years.
+Line is doubled tracked and has SPB style-1/5 signaling.  Map fits for newcommers to metrostroi and even for veteran players for cacual driving.
+Line lenght is 6km and takes about 7 ~ 10 minutes to drive (V29).
+
+## Map history
 gm_metro_ruralline is the first map in metrostroi history to be mostly outside based map. Map was released Monday of **27/02/2017**, with very version being tested on MFIN (Metrostroi Finland) server, Today called Metrostroi Europe.
 Since then ruralline has been updated many times until V29 became its last major update in 29.7.2017, since then there have been many new versions of the map what have not been released.
-
 gm_metro_ruralline_legacypack is a storage for all old maps from V1 until V29 +snow, Even V3 and V4 will be part of the legacy pack even when it's fully new release.
 
-
-### map info
-gm_metro_ruralline is a 70% overground and 30% tunnels map built by **GamerzXsakuzboy99** when he did not have that much knowledge of the mapping, but over time the map got somewhat better until V29 was released.
-This version broke almost everything from the map, and it has stayed like that since 2017. But even still, this fact. Map is played very often on non-ranked / ranked servers alike.
-This is due to the simple layout that the map has, only having a Left / Right trackway without any extra curves what other maps offer. Still Map is very popular among new players.
-Players have been of course been waiting for update due Rocklake - depot section is very badly designed area as it was meant to be temporary. Same time, all station sections are very short, so map can only have 6 trains active on both tracks.
 
 ### Map list
 - gm_metro_ruralline_v29*
@@ -62,7 +61,7 @@ Players have been of course been waiting for update due Rocklake - depot section
 - Ravenholm *(Museum station / closed station?)*
 - Aviation university
 - Lakeview City Hall
-    - White forest (Closed station)
+- Old White forest station, Closed in V3 and demolished mostly on V4*
 - White Forest East
 - Urban Park North
 - Rocklake
@@ -71,6 +70,8 @@ Players have been of course been waiting for update due Rocklake - depot section
 - Rockport Central
     - Old rocklake station (Museum Station)
     - Military station (Freight station)
+
+* = Not final yet.
 
 ### Recommended settings
 *These settings are recommended by map developer as map in its current form is so short and has a lot of faults*<br>
@@ -92,12 +93,6 @@ Players have been of course been waiting for update due Rocklake - depot section
 - sv_crazyphysics_vehicles 0
 - sv_crazyphysics_warning 0
 > These cmds are absolute if you want to drive between Aviation university & Market street stations, As map up until v29 is located so down in the as possible in the engine, so it causes physic engine to have a heart attack.
-
-#### ADDONS FOR THE MAP
-*These are addons what have been made for ruralline, they are either 3rd party or released by RMDT (Rockport metropolitan development and testing)*
-
-**Not supported anymore due V29 was updated on 26/03/2024 & V3 does not even support them**
-
 
 ## Credits
 - Ron Thunder:  Early day map helper (v1 ~ V27)
