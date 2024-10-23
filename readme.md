@@ -15,8 +15,6 @@ Players have been of course been waiting for update due Rocklake - depot section
 - gm_metro_ruralline_v29*
 > *Map was updated on 26/03/2024, So This is newer version of the map.
 > map year: 1995 & Lakeview transport is operator
-- gm_metro_ruralline_v29_snow
-> map year: 1995 & Lakeview transport is operator
 
 #### Future maps
 - gm_metro_ruralline_v3
@@ -33,8 +31,8 @@ Players have been of course been waiting for update due Rocklake - depot section
 - gm_metro_ruralline_v26
 - gm_metro_ruralline_v27
 - gm_metro_ruralline_v28
-- gm_metro_ruralline_v29_old*
-    - *Has signaling & announcer support still, This version is removed from support when V3 gets released.
+- gm_metro_ruralline_v29_old
+- gm_metro_ruralline_v29_snow
 
 ### Station list (V29 + ID + Passenger pop index)
 *pop index : x.x (MS > RL) & x.x (RL > MS), One index is both plt*

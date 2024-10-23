@@ -105,3 +105,9 @@ Depot Changes:
 #### 17 : Update
 - Optional update, Can be only downloaded from GitHub.
 - Updated Station Name teleports.
+
+#### 18 : Update
+- Signaling fixes by miffrium
+
+### 19 Update
+- Dropped Support for versions: V29_old, V29_Snow
