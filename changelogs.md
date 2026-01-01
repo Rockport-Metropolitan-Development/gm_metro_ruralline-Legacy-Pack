@@ -111,3 +111,6 @@ Depot Changes:
 
 ### 19 Update
 - Dropped Support for versions: V29_old, V29_Snow
+
+### 20 : Update
+- Signal update to support latest update of MSA
